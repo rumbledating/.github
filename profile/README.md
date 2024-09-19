@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 # api-service
-![Build](https://github.com/rumbledating/api-service/actions/workflows/main_rumbledating-api.yml/badge.svg)
+![Build](https://github.com/rumbledating/api/actions/workflows/main_rumbledating-api.yml/badge.svg)
 
 # Admin Site
-![Build](https://github.com/rumbledating/admin-site/actions/workflows/main_rumbledating-admin.yml/badge.svg)
+![Build](https://github.com/rumbledating/admin/actions/workflows/main_rumbledating-admin.yml/badge.svg)
+
 
 <!--
 
