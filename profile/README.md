@@ -6,6 +6,9 @@
 # Admin Site
 ![Build](https://github.com/rumbledating/admin/actions/workflows/main_rumbledating-admin.yml/badge.svg)
 
+# Auth Site
+![Build](https://github.com/rumbledating/auth/actions/workflows/main_rumbledating-auth.yml/badge.svg)
+
 
 <!--
 
