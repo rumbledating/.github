@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# api-service
+![Build](https://github.com/rumbledating/api-service/actions/workflows/dotnet.yml/badge.svg)
+
+
 <!--
 
 **Here are some ideas to get you started:**
