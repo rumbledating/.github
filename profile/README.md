@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# api-service
+# API
 ![Build](https://github.com/rumbledating/api/actions/workflows/main_rumbledating-api.yml/badge.svg)
 
 # Admin Site
